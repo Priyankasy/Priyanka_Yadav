@@ -1,5 +1,3 @@
-# Priyanka_Yadav
-
 # Hi, I'm Priyanka Yadav
 
 **Aspiring Data Analyst | MCA Student | Data Science Intern @ Yhills Edutech**
